@@ -1,4 +1,4 @@
-2D RPG game by Bryce Matheson
+2D RPG game
 
 Programmed in Java using OOP
 
